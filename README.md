@@ -13,11 +13,11 @@
 
 ## Personal Values
 
-🌱 **Lifelong learner** – Continuously expanding my knowledge to stay ahead in this rapidly changing world.  
+🌱 **Lifelong learner** – Continuously expanding my knowledge and skills to proactively stay ahead in this rapidly changing world.
 
-🚀 **Active problem solver** – Tackling challenges and turning them into opportunities with curiosity and persistence.  
+🚀 **Active problem solver** – Tackling challenges and turning them into opportunities with my curiosity and perseverance.
 
-🌍 **Mission-driven** – Committed to making a positive and meaningful impact on society! 
+🌍 **Mission-driven** – Committed to making a positive and meaningful impact on this world.
 
 
 ## Let's Connect!
