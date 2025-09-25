@@ -6,7 +6,7 @@
 
 * Focus: Data Science, Machine Learning, Explainable AI, NLP, Causal Inference, Statistical Modeling, A/B Testing, Data Visualization
 
-📊 **PwC – Consultant (2016–2024)**
+📊 **PwC – Consultant → Senior Consultant → Manager (2016–2024)**
 
 * Specializations: Tax Consulting, Business Analysis, Digital Transformation
 
