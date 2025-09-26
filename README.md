@@ -22,6 +22,6 @@
 
 ## Let's Connect!
 Feel free to reach out to connect or collaborate!  
-[![LinkedIn](https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png)](https://linkedin.com/in/jenniferli)
+[![LinkedIn](https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png)](https://www.linkedin.com/in/jennifer-li-tt68/)
 [![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/Jenniferli6)  
 
