@@ -2,13 +2,13 @@
 
 ## Education & Experience
 
-🎓 **Duke University – Master’s in Interdisciplinary Data Science**
+🎓 **Duke University – Data Science & AI**
 
-* Focus: Data Science, Machine Learning, Explainable AI, NLP, Causal Inference, Statistical Modeling, A/B Testing, Data Visualization
+* Focus: Explainable Artificial Intelligence, Data Science, Machine Learning, Statistical Modeling, Natural Language Processing, Database System, Data Engineering, Data Visualization, etc
 
-📊 **PwC – Manager**
+📊 **PwC – Consulting Manager**
 
-* Specializations: Tax Consulting, Business Analysis, Data Modeling, Digital Transformation
+* Specializations: Business strategy, financial modeling, value chain transformation, global structuring, international tax, transfer pricing, cross-border operations, regulatory and compliance advisory, etc.
 
 
 ## Personal Values
